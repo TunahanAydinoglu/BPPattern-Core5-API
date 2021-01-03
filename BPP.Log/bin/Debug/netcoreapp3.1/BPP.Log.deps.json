@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BPP.Log/1.0.0": {
+        "runtime": {
+          "BPP.Log.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BPP.Log/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

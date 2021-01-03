@@ -1,0 +1,9 @@
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\bin\Debug\netcoreapp3.1\BPP.Data.deps.json
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\bin\Debug\netcoreapp3.1\BPP.Data.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\bin\Debug\netcoreapp3.1\BPP.Data.pdb
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\obj\Debug\netcoreapp3.1\BPP.Data.csprojAssemblyReference.cache
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\obj\Debug\netcoreapp3.1\BPP.Data.AssemblyInfoInputs.cache
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\obj\Debug\netcoreapp3.1\BPP.Data.AssemblyInfo.cs
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\obj\Debug\netcoreapp3.1\BPP.Data.csproj.CoreCompileInputs.cache
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\obj\Debug\netcoreapp3.1\BPP.Data.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Data\obj\Debug\netcoreapp3.1\BPP.Data.pdb

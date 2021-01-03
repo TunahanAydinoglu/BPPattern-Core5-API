@@ -1,0 +1,17 @@
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.csprojAssemblyReference.cache
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.AssemblyInfoInputs.cache
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.AssemblyInfo.cs
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.csproj.CoreCompileInputs.cache
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Service.deps.json
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Service.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\ref\BPPattern.Service.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Service.pdb
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Core.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Data.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Core.pdb
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\bin\Debug\net5.0\BPPattern.Data.pdb
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.csproj.CopyComplete
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\ref\BPPattern.Service.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern\BPP.Service\obj\Debug\net5.0\BPPattern.Service.pdb

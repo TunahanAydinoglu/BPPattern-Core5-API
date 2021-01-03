@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BPPattern.Core/1.0.0": {
+        "runtime": {
+          "BPPattern.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BPPattern.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
