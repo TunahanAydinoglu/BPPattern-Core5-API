@@ -1,2 +1,7 @@
 # BPPattern-Core5-API
- Initial Pattern
+
+set ConnectionString in BPP.WebAPI > appstetting.json
+
+cd Data Project console:
+  Add-Migration yourMigrationName
+  Update-Database
