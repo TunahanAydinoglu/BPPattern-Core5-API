@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Core\\BPP.Core.csproj",
+      "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Core\\BPP.Core.csproj",
       "projectName": "BPP.Core",
-      "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Core\\BPP.Core.csproj",
+      "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Core\\BPP.Core.csproj",
       "packagesPath": "C:\\Users\\clown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Core\\obj\\",
+      "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\clown\\AppData\\Roaming\\NuGet\\NuGet.Config",

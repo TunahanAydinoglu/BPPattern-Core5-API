@@ -5742,11 +5742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Service\\BPP.Service.csproj",
+      "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Service\\BPP.Service.csproj",
       "projectName": "BPP.Service",
-      "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Service\\BPP.Service.csproj",
+      "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Service\\BPP.Service.csproj",
       "packagesPath": "C:\\Users\\clown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Service\\obj\\",
+      "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\clown\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5763,11 +5763,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Core\\BPP.Core.csproj": {
-              "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Core\\BPP.Core.csproj"
+            "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Core\\BPP.Core.csproj": {
+              "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Core\\BPP.Core.csproj"
             },
-            "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Data\\BPP.Data.csproj": {
-              "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Data\\BPP.Data.csproj"
+            "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Data\\BPP.Data.csproj": {
+              "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Data\\BPP.Data.csproj"
             }
           }
         }

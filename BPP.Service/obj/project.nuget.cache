@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ktBuir4L3nPx3SEH9CEzl8YbQQKjvs8E8oTI86c6d5thsvvQ3gV+XqHdF19L44vfioBwwsJL86YvJtr+h0tKfw==",
+  "dgSpecHash": "M5ivfrOTONJm2AxD3iwVteW8LlUkBX9gnu0eSzxBNQisIB7OfRgSrjmotDaXiOAr7t9CvJ9QLMo1LugKTbMEKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Service\\BPP.Service.csproj",
+  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Service\\BPP.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQsk/TU2liTlZqb3PTzmUxBzbm3WIeEWBwmhK+vUx6YT5/aMDXfbcoHOf1C2czlk0ZrkQq6jVuoTGaNVKiiAQA==",
+  "dgSpecHash": "+0S1mXfYGyh8WPQ9YzAz5COOdwnqZOEPw2cALAE6eBMu8qfPPiondsXOEx471c7GRpJ2LZiH9vXOuo/DkQPgNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Data\\BPP.Data.csproj",
+  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Data\\BPP.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clown\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y/5P+qcFtq4cX+7Cziw7HolZ8NA0rAA74yAMeL7+tL36EnXoKpgkFdRoJo5j/TzEpXrKFmztSg3ZqdLDPSriGQ==",
+  "dgSpecHash": "O3dCbvl8odjXWd7nCMxl97iho1dEMejWgl93TcIAu78G8WIpCPCv9JT/3jgQSmzoqQo3bgbMGp++bJs4wbGFEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.Core\\BPP.Core.csproj",
+  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.Core\\BPP.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

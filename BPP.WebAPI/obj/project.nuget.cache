@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q1tIOsOt9w8pkvax0P04ccR49KuhsozJinCmkxtlfUNaHmwPMx3pQR4pf6L4+CnoutPvHr4HAptvfqoBRGpNLg==",
+  "dgSpecHash": "MjU0Vq3oBcNaxUFMiOAtmj0cD2cOLHAZ6QM+mmgvCyorL8Y3D9+gHa2KmgBXLCoMNUj79h3gt/vALfutPKWJzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern\\BPP.WebAPI\\BPP.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.WebAPI\\BPP.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clown\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
