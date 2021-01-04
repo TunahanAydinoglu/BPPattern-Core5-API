@@ -12,7 +12,7 @@ namespace BPP.Data.Repositories
     public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
         private BppDbContext _bppDbContext { get => _context as BppDbContext; }
-        public CategoryRepository(DbContext context) : base(context)
+        public CategoryRepository(BppDbContext context) : base(context)
         {
         }
 
