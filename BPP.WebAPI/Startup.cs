@@ -1,6 +1,10 @@
+using BPP.Core.Repositories;
+using BPP.Core.Services;
 using BPP.Core.UnitOfWorks;
 using BPP.Data;
+using BPP.Data.Repositories;
 using BPP.Data.UnitOfWorks;
+using BPP.Service.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -15,6 +19,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 
 namespace BPP.WebAPI
 {
@@ -30,11 +35,23 @@ namespace BPP.WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<BppDbContext>(options => { options.UseSqlServer(Configuration["ConnectionString:SqlConnectionString"].ToString(), o=>
-            {
-                o.MigrationsAssembly("BPP.Data");
-            }); });
+            services.AddAutoMapper(typeof(Startup));
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddScoped(typeof(IService<>), typeof(Service<>));
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
+
+
+
+
+            services.AddDbContext<BppDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration["ConnectionString:SqlConnectionString"].ToString(), o =>
+{
+o.MigrationsAssembly("BPP.Data");
+});
+            });
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
