@@ -3,14 +3,16 @@ using BPP.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BPP.Data.Migrations
 {
     [DbContext(typeof(BppDbContext))]
-    partial class BppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210105213505_AddPerson")]
+    partial class AddPerson
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

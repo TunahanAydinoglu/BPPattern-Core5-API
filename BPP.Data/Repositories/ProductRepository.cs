@@ -11,6 +11,7 @@ namespace BPP.Data.Repositories
 {
     public class ProductRepository : Repository<Product>, IProductRepository
     {
+        // ?? ?? ? ? 
         private BppDbContext _bppDbContext { get => _context as BppDbContext; }
         public ProductRepository(BppDbContext context) : base(context)
         {

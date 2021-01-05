@@ -20,6 +20,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using BPP.WebAPI.Filters;
+using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json;
+using BPP.WebAPI.Extensions;
 
 namespace BPP.WebAPI
 {
@@ -42,8 +47,11 @@ namespace BPP.WebAPI
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
 
-
-
+            services.AddScoped<NotFoundFilter>();
+            services.AddControllers(o =>
+            {
+                o.Filters.Add(new ValidationFilter());
+            });
 
             services.AddDbContext<BppDbContext>(options =>
             {
@@ -51,6 +59,12 @@ namespace BPP.WebAPI
 {
 o.MigrationsAssembly("BPP.Data");
 });
+            });
+
+            //validator closed
+            services.Configure<ApiBehaviorOptions>(options =>
+            {
+                options.SuppressModelStateInvalidFilter = true;
             });
 
             services.AddControllers();
@@ -63,6 +77,9 @@ o.MigrationsAssembly("BPP.Data");
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
+            app.UseCustomException();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

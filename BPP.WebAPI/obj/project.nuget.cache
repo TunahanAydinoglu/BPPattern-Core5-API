@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SiyxmfEWMO9NYCmC+LyZ5QHoK9UZdaOv58xMeSIAYfTZrfmJaPIueLZRt3+IlCMPU+NK2fsm9PKnt4Y5iKP/gQ==",
+  "dgSpecHash": "rFlx58n7bbRpPSQ+zKFf9HuTBVfR2eDG++5CiUzYhL0DT4wZs4vY0z4dVdkzJZgPRzbYSV0Ium8oTr+6uH7yfA==",
   "success": true,
   "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\VS\\BPPattern-Core5-API\\BPP.WebAPI\\BPP.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\clown\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

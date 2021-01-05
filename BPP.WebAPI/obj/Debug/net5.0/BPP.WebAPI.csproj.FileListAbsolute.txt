@@ -134,3 +134,4 @@ C:\Users\clown\Desktop\Projects\VS\BPPattern-Core5-API\BPP.WebAPI\obj\Debug\net5
 C:\Users\clown\Desktop\Projects\VS\BPPattern-Core5-API\BPP.WebAPI\obj\Debug\net5.0\BPP.WebAPI.genruntimeconfig.cache
 C:\Users\clown\Desktop\Projects\VS\BPPattern-Core5-API\BPP.WebAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\clown\Desktop\Projects\VS\BPPattern-Core5-API\BPP.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\clown\Desktop\Projects\VS\BPPattern-Core5-API\BPP.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
